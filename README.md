@@ -4,7 +4,7 @@
 
 ## **Project Overview**
 
-
+Alphabet Soup, a philanthropic foundation dedicated to helping organisations that protect the environment, people’s well-being, and unify the world, has raised, and donated over ten billion dollars in the past 20 years. This money has been used to invest in life saving technologies and reforestation groups around the world. Becks, who oversees data collection and analysis for Alphabet Soup, has the job of analysing the impact of each donation and vet potential recipients to ensure the foundation’s money is being used effectively. To increase the likelihood of each donation being impactful, and in an effort to reduce fraud amongst recipients, Alphabet Soup’s president has asked Becks to determine which organisations are worth donating to and which are too high risk, by creating a mathematical, data-driven solution that can do this accurately. Becks has decided that due to the complexity of this task, she will design and train a deep learning neural network that will evaluate all types of input data and produce a clear decision-making result. This project will involve us helping Becks learn about neural networks and how to design and train these models using the Python TensorFlow library, that can be used to interpret large, complex datasets. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 
 -Software: Python 3.7.10; Visual Studio Code, 1.38.1; Jupyter Notebook; Anaconda3. 
 
--Resources: 
+-Resources: https://playground.tensorflow.org/; https://www.tensorflow.org; https://datascienceparichay.com/article/pandas-count-of-unique-values-in-each-column/; https://en.wikipedia.org/wiki/Hierarchical_Data_Format.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -72,8 +72,6 @@ Compiling, Training, and Evaluating the Model
 ## **2. What variable(s) are considered to be the features for your model?**
 
 -
-
-
 
 
 ## **3. What variable(s) are neither targets nor features, and should be removed from the input data?**
