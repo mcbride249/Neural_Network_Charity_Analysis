@@ -12,7 +12,7 @@
 
 -Data Source: charity_data.
 
--Software: Python 3.7.10; Visual Studio Code, 1.38.1.
+-Software: Python 3.7.10; Visual Studio Code, 1.38.1; Jupyter Notebook; Anaconda3. 
 
 -Resources: 
 
