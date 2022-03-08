@@ -116,7 +116,16 @@ The below variables are considered to be the features of the optimized model:
 
 ## **3. What variable(s) are neither targets nor features, and should be removed from the input data?**
 
--
+The below variables are neither targets nor features, and should be removed from the input data:
+
+-"EIN"
+
+-"NAME"
+
+-"USE_CASE"
+
+-"SPECIAL CONSIDERATIONS"
+
 
 ## **4. How many neurons, layers, and activation functions did you select for your neural network model, and why?**
 
