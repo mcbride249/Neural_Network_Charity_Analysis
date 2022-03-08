@@ -229,7 +229,7 @@ Loss Metric: 57%
 ![Summary - Attempt 3](https://user-images.githubusercontent.com/92111396/157326797-25171191-77e1-4225-bc0a-3807d1f92e69.png)
 
 
-**Reccomendation**
+**Recommendation**
 
 While none of these models, achieved the predictive accuracy of 75%, for further attempts, I would recommend continuing to increase the level of hidden layers, so as to include more depth in the model to solve the classification problem. Increasing the depth (layers) of the model would allow for a greater creation of shapes and patterns of predictability; increasing the layers by a wide margin may create an upper bound, whereby I could then fine tune the model by varying the number of nodes, or by then decreasing the number of layers from the upper bound, based on a trial-and-error method.  
 
