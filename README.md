@@ -14,7 +14,7 @@ Alphabet Soup, a philanthropic foundation dedicated to helping organisations tha
 
 -Software: Python 3.7.10; Visual Studio Code, 1.38.1; Jupyter Notebook; Anaconda3. 
 
--Resources: https://playground.tensorflow.org/; https://www.tensorflow.org; https://datascienceparichay.com/article/pandas-count-of-unique-values-in-each-column/; https://en.wikipedia.org/wiki/Hierarchical_Data_Format.
+-Resources: https://playground.tensorflow.org/; https://www.tensorflow.org; https://datascienceparichay.com/article/pandas-count-of-unique-values-in-each-column/; https://en.wikipedia.org/wiki/Hierarchical_Data_Format; https://machinelearningmastery.com/how-to-configure-the-number-of-layers-and-nodes-in-a-neural-network/.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -129,7 +129,27 @@ The below variables are neither targets nor features, and should be removed from
 
 ## **4. How many neurons, layers, and activation functions did you select for your neural network model, and why?**
 
--
+I selected the following neurons, layers, and activation functions for my neural network.
+
+**Attempt 1**
+-2 Layers
+-90 and 45 neurons
+-Relu activation 
+-40 epochs
+
+**Attempt 2**
+-3 Layers
+-50, 30, and 10 neurons
+-Relu activation 
+-30 epochs
+
+**Attempt 3**
+-3 Layers
+-80, 20, and 30 neurons
+-Tanh activation 
+-100 epochs
+
+I selected each of these at random based on the trial-and-error method, in an effort to increase the predictive accuracy to 75%. At first, I simply increased the number of neurons to see if a simple solution, would lead to an increased level of predictive accuracy, but as was assumed, the problem was not simple enough to be linearly separated. As such, I made the decision to increase the layers, nodes, and epochs, in each subsequent attempt, to increase the level of accuracy, based on the principal of “going for depth” that states that “Empirically, greater depth does seem to result in better generalization for a wide variety of tasks”. 
 
 
 ## **5. Were you able to achieve the target model performance?**
