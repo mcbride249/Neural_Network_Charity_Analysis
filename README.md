@@ -27,11 +27,13 @@ Alphabet Soup, a philanthropic foundation dedicated to helping organisations tha
 A snapshot of the code used for Deliverable 1, can be found below. 
 
 ![Deliverable 1 - Image 1](https://user-images.githubusercontent.com/92111396/157316599-7971a9e1-99dd-4d4a-935a-5926ae9eefca.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%201%20-%20Image%201.png
 
 ![Deliverable 1 - Image 2](https://user-images.githubusercontent.com/92111396/157316611-334ee433-daf8-4f0b-9217-34ceff5ae75c.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%201%20-%20Image%202.png
 
 ![Deliverable 1 - Image 3](https://user-images.githubusercontent.com/92111396/157316616-bef637aa-ecc7-41a0-992c-24b4701eaad9.png)
-
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%201%20-%20Image%203.png
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,8 +42,10 @@ A snapshot of the code used for Deliverable 1, can be found below.
 A snapshot of the code used for Deliverable 2, can be found below. 
 
 ![Deliverable 2 - Image 1](https://user-images.githubusercontent.com/92111396/157316952-31e71461-84e9-4758-8e9a-af2a5482d7f4.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%202%20-%20Image%201.png
 
 ![Deliverable 2 - Image 2](https://user-images.githubusercontent.com/92111396/157316971-efd23316-c759-4f1b-8dd9-2939ea4af622.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%202%20-%20Image%202.png
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -51,16 +55,22 @@ A snapshot of the code used for Deliverable 2, can be found below.
 A snapshot of the code used for Deliverable 3, can be found below. 
 
 ![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/157317622-b2735367-afb3-40fc-9495-bec0ff547ed5.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%201.png
 
 ![Deliverable 3 - Image 2](https://user-images.githubusercontent.com/92111396/157317639-1bbc8173-327c-4e0c-8b0f-8b39478390e9.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%202.png
 
 ![Deliverable 3 - Image 3](https://user-images.githubusercontent.com/92111396/157317655-ec0a3ba4-5795-43b9-a4de-fd797cacdf4f.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%203.png
 
 ![Deliverable 3 - Image 4](https://user-images.githubusercontent.com/92111396/157317675-61da890b-8fd7-4459-9778-8d48f97a9343.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%204.png
 
 ![Deliverable 3 - Image 5](https://user-images.githubusercontent.com/92111396/157317685-7d7b3e85-24c6-446f-b68a-445c854ed2b9.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%205.png
 
 ![Deliverable 3 - Image 6](https://user-images.githubusercontent.com/92111396/157317695-98080b8e-71ca-4e28-8aa5-67ef24b1ff53.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%206.png
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -191,17 +201,23 @@ Each attempt can be explained as per the below.
 
 Below is a snapshot of the code used to increase model performance.
 
-![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/157323980-04f9864c-29d5-42e5-b08b-d7c899a62c07.png)
+![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/157317622-b2735367-afb3-40fc-9495-bec0ff547ed5.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%201.png
 
-![Deliverable 3 - Image 2](https://user-images.githubusercontent.com/92111396/157323991-1691d3e9-28f8-4192-ad25-39e4c67be60f.png)
+![Deliverable 3 - Image 2](https://user-images.githubusercontent.com/92111396/157317639-1bbc8173-327c-4e0c-8b0f-8b39478390e9.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%202.png
 
-![Deliverable 3 - Image 3](https://user-images.githubusercontent.com/92111396/157324003-ac53a699-0db1-4bdf-9c98-2808b073462d.png)
+![Deliverable 3 - Image 3](https://user-images.githubusercontent.com/92111396/157317655-ec0a3ba4-5795-43b9-a4de-fd797cacdf4f.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%203.png
 
-![Deliverable 3 - Image 4](https://user-images.githubusercontent.com/92111396/157324014-5689fcda-2f8e-4428-a50e-6f2fb51578c5.png)
+![Deliverable 3 - Image 4](https://user-images.githubusercontent.com/92111396/157317675-61da890b-8fd7-4459-9778-8d48f97a9343.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%204.png
 
-![Deliverable 3 - Image 5](https://user-images.githubusercontent.com/92111396/157324020-8769f5d0-3845-4db1-82a4-d9e6393454b5.png)
+![Deliverable 3 - Image 5](https://user-images.githubusercontent.com/92111396/157317685-7d7b3e85-24c6-446f-b68a-445c854ed2b9.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%205.png
 
-![Deliverable 3 - Image 6](https://user-images.githubusercontent.com/92111396/157324025-bcae3198-8600-48f9-86ba-4ff95cc88cd7.png)
+![Deliverable 3 - Image 6](https://user-images.githubusercontent.com/92111396/157317695-98080b8e-71ca-4e28-8aa5-67ef24b1ff53.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%206.png
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -213,6 +229,7 @@ Predictive Accuracy Percentage: 72%
 Loss Metric: 56%
 
 ![Summary - Attempt 1](https://user-images.githubusercontent.com/92111396/157326733-a54d24c0-8c64-440e-ac87-772d20ed6d99.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary%20-%20Attempt%201.png
 
 
 Attempt 2:
@@ -220,6 +237,7 @@ Predictive Accuracy Percentage: 72%
 Loss Metric: 55%
 
 ![Summary - Attempt 2](https://user-images.githubusercontent.com/92111396/157326768-b6af5239-eea2-4abd-9c08-f2c3e4d1b2b9.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary%20-%20Attempt%202.png
 
 
 Attempt 3:
@@ -227,9 +245,10 @@ Predictive Accuracy Percentage: 72%
 Loss Metric: 57%
 
 ![Summary - Attempt 3](https://user-images.githubusercontent.com/92111396/157326797-25171191-77e1-4225-bc0a-3807d1f92e69.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary%20-%20Attempt%203.png
 
 
 **Recommendation**
 
-While none of these models, achieved the predictive accuracy of 75%, for further attempts, I would recommend continuing to increase the level of hidden layers, so as to include more depth in the model to solve the classification problem. Increasing the depth (layers) of the model would allow for a greater creation of shapes and patterns of predictability; increasing the layers by a wide margin may create an upper bound, whereby I could then fine tune the model by varying the number of nodes, or by then decreasing the number of layers from the upper bound, based on a trial-and-error method.  
+While none of these models, achieved the predictive accuracy of 75%, for further attempts, I would recommend continuing to increase the level of hidden layers, so as to include more depth in the model to solve the classification problem. Increasing the depth (layers) of the model would allow for a greater creation of shapes and patterns of predictability; increasing the layers by a wide margin may create an upper bound, whereby I could then fine tune the model by varying the number of nodes, or by then decreasing the number of layers from the upper bound, based on a trial-and-error method, to achieve a predictive accuracy of 75%.  
 
