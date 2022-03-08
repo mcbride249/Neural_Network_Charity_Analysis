@@ -154,10 +154,54 @@ I selected each of these at random based on the trial-and-error method, in an ef
 
 ## **5. Were you able to achieve the target model performance?**
 
--
+-I was unable to achieve the target model performance of 75%.
+
+-In retrospect or perhaps on a further attempt, I would have increased the level of layers to include more depth, as the increase in the amount of layers should allows the model to create more shapes and examples for classification to increase predictive accuracy. 
 
 
 ## **6. What steps did you take to try and increase model performance?**
+
+I took the following steps to increase the model performance:
+
+-Drop additional features (noisy variables) for all subsequent model configurations.
+
+-Increase the layers 
+
+-Increase/decrease the neurons in the additional layers
+
+Each attempt can be explained as per the below.
+
+**Attempt 1**
+-2 Layers
+-90 and 45 neurons
+-Relu activation 
+-40 epochs
+
+**Attempt 2**
+-3 Layers
+-50, 30, and 10 neurons
+-Relu activation 
+-30 epochs
+
+**Attempt 3**
+-3 Layers
+-80, 20, and 30 neurons
+-Tanh activation 
+-100 epochs
+
+Below is a snapshot of the code used to increase model performance.
+
+![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/157323980-04f9864c-29d5-42e5-b08b-d7c899a62c07.png)
+
+![Deliverable 3 - Image 2](https://user-images.githubusercontent.com/92111396/157323991-1691d3e9-28f8-4192-ad25-39e4c67be60f.png)
+
+![Deliverable 3 - Image 3](https://user-images.githubusercontent.com/92111396/157324003-ac53a699-0db1-4bdf-9c98-2808b073462d.png)
+
+![Deliverable 3 - Image 4](https://user-images.githubusercontent.com/92111396/157324014-5689fcda-2f8e-4428-a50e-6f2fb51578c5.png)
+
+![Deliverable 3 - Image 5](https://user-images.githubusercontent.com/92111396/157324020-8769f5d0-3845-4db1-82a4-d9e6393454b5.png)
+
+![Deliverable 3 - Image 6](https://user-images.githubusercontent.com/92111396/157324025-bcae3198-8600-48f9-86ba-4ff95cc88cd7.png)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
