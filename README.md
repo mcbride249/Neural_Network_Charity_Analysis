@@ -208,3 +208,28 @@ Below is a snapshot of the code used to increase model performance.
 
 ## **Summary**
 
+Attempt 1:
+Predictive Accuracy Percentage: 72%
+Loss Metric: 56%
+
+![Summary - Attempt 1](https://user-images.githubusercontent.com/92111396/157326733-a54d24c0-8c64-440e-ac87-772d20ed6d99.png)
+
+
+Attempt 2:
+Predictive Accuracy Percentage: 72%
+Loss Metric: 55%
+
+![Summary - Attempt 2](https://user-images.githubusercontent.com/92111396/157326768-b6af5239-eea2-4abd-9c08-f2c3e4d1b2b9.png)
+
+
+Attempt 3:
+Predictive Accuracy Percentage: 72%
+Loss Metric: 57%
+
+![Summary - Attempt 3](https://user-images.githubusercontent.com/92111396/157326797-25171191-77e1-4225-bc0a-3807d1f92e69.png)
+
+
+**Reccomendation**
+
+While none of these models, achieved the predictive accuracy of 75%, for further attempts, I would recommend continuing to increase the level of hidden layers, so as to include more depth in the model to solve the classification problem. Increasing the depth (layers) of the model would allow for a greater creation of shapes and patterns of predictability; increasing the layers by a wide margin may create an upper bound, whereby I could then fine tune the model by varying the number of nodes, or by then decreasing the number of layers from the upper bound, based on a trial-and-error method.  
+
