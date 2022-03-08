@@ -92,12 +92,26 @@ Compiling, Training, and Evaluating the Model
 
 ## **1. What variable(s) are considered the target(s) for your model?**
 
--
+-The “IS_SUCCESSFUL” column is considered the target of the model.
 
 
 ## **2. What variable(s) are considered to be the features for your model?**
 
--
+The below variables are considered to be the features of the optimized model:
+
+-“APPLICATION_TYPE”
+
+-“CLASSIFICATION” 
+
+-“AFFILIATION” 
+
+-“ORGANIZATION” 
+
+-“STATUS”
+
+-“INCOME_AMT”  
+
+-“ASK_AMT”
 
 
 ## **3. What variable(s) are neither targets nor features, and should be removed from the input data?**
