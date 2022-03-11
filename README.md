@@ -26,14 +26,15 @@ Alphabet Soup, a philanthropic foundation dedicated to helping organisations tha
 
 A snapshot of the code used for Deliverable 1, can be found below. 
 
-![Deliverable 1 - Image 1](https://user-images.githubusercontent.com/92111396/157316599-7971a9e1-99dd-4d4a-935a-5926ae9eefca.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%201%20-%20Image%201.png
+![Deliverable_1_Image_1](https://user-images.githubusercontent.com/92111396/157777895-4ebcd24e-f835-4e91-8ca5-0aa49dba29c7.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_1_Image_1.png
 
-![Deliverable 1 - Image 2](https://user-images.githubusercontent.com/92111396/157316611-334ee433-daf8-4f0b-9217-34ceff5ae75c.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%201%20-%20Image%202.png
+![Deliverable_1_Image_2](https://user-images.githubusercontent.com/92111396/157777922-6234d573-0773-4ba9-94ae-31a1818b12c8.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_1_Image_2.png
 
-![Deliverable 1 - Image 3](https://user-images.githubusercontent.com/92111396/157316616-bef637aa-ecc7-41a0-992c-24b4701eaad9.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%201%20-%20Image%203.png
+![Deliverable_1_Image_3](https://user-images.githubusercontent.com/92111396/157777936-4829d312-df2d-4a09-ac8a-556106af13c4.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_1_Image_3.png
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,12 +42,11 @@ https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/D
 
 A snapshot of the code used for Deliverable 2, can be found below. 
 
-![Deliverable 2 - Image 1](https://user-images.githubusercontent.com/92111396/157316952-31e71461-84e9-4758-8e9a-af2a5482d7f4.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%202%20-%20Image%201.png
+![Deliverable_2_Image_1](https://user-images.githubusercontent.com/92111396/157777975-1adb43ce-c888-49fa-be8f-65262be1fa16.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_2_Image_1.png
 
-![Deliverable 2 - Image 2](https://user-images.githubusercontent.com/92111396/157316971-efd23316-c759-4f1b-8dd9-2939ea4af622.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%202%20-%20Image%202.png
-
+![Deliverable_2_Image_2](https://user-images.githubusercontent.com/92111396/157777984-6fabef81-dd24-440f-88bb-b2557218f965.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_2_Image_2.png
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -54,23 +54,26 @@ https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/D
 
 A snapshot of the code used for Deliverable 3, can be found below. 
 
-![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/157317622-b2735367-afb3-40fc-9495-bec0ff547ed5.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%201.png
+![Deliverable_3_Image_1](https://user-images.githubusercontent.com/92111396/157778036-b377ad81-62d9-4e02-bd28-aea378669fd5.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_1.png
 
-![Deliverable 3 - Image 2](https://user-images.githubusercontent.com/92111396/157317639-1bbc8173-327c-4e0c-8b0f-8b39478390e9.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%202.png
+![Deliverable_3_Image_2](https://user-images.githubusercontent.com/92111396/157778041-a1984ada-2000-42be-9d8e-d0023e9abb2f.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_2.png
 
-![Deliverable 3 - Image 3](https://user-images.githubusercontent.com/92111396/157317655-ec0a3ba4-5795-43b9-a4de-fd797cacdf4f.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%203.png
+![Deliverable_3_Image_3](https://user-images.githubusercontent.com/92111396/157778046-c73a1c06-c239-4a2b-a2e0-b73d41cb181f.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_3.png
 
-![Deliverable 3 - Image 4](https://user-images.githubusercontent.com/92111396/157317675-61da890b-8fd7-4459-9778-8d48f97a9343.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%204.png
+![Deliverable_3_Image_4](https://user-images.githubusercontent.com/92111396/157778051-f709c50c-62a6-4c44-9a4f-e537e2b5774b.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_4.png
 
-![Deliverable 3 - Image 5](https://user-images.githubusercontent.com/92111396/157317685-7d7b3e85-24c6-446f-b68a-445c854ed2b9.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%205.png
+![Deliverable_3_Image_5](https://user-images.githubusercontent.com/92111396/157778062-88c6d2bb-7218-41b5-ba7f-d56612ed9aa8.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_5.png
 
-![Deliverable 3 - Image 6](https://user-images.githubusercontent.com/92111396/157317695-98080b8e-71ca-4e28-8aa5-67ef24b1ff53.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%206.png
+![Deliverable_3_Image_6](https://user-images.githubusercontent.com/92111396/157778078-12f77975-c33f-49d0-ba3c-dd6a24e58922.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_6.png
+
+![Deliverable_3_Image_7](https://user-images.githubusercontent.com/92111396/157778092-8c18ce36-9e5a-4b07-812b-762485f1676e.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_7.png
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -201,23 +204,26 @@ Each attempt can be explained as per the below.
 
 Below is a snapshot of the code used to increase model performance.
 
-![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/157317622-b2735367-afb3-40fc-9495-bec0ff547ed5.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%201.png
+![Deliverable_3_Image_1](https://user-images.githubusercontent.com/92111396/157778036-b377ad81-62d9-4e02-bd28-aea378669fd5.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_1.png
 
-![Deliverable 3 - Image 2](https://user-images.githubusercontent.com/92111396/157317639-1bbc8173-327c-4e0c-8b0f-8b39478390e9.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%202.png
+![Deliverable_3_Image_2](https://user-images.githubusercontent.com/92111396/157778041-a1984ada-2000-42be-9d8e-d0023e9abb2f.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_2.png
 
-![Deliverable 3 - Image 3](https://user-images.githubusercontent.com/92111396/157317655-ec0a3ba4-5795-43b9-a4de-fd797cacdf4f.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%203.png
+![Deliverable_3_Image_3](https://user-images.githubusercontent.com/92111396/157778046-c73a1c06-c239-4a2b-a2e0-b73d41cb181f.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_3.png
 
-![Deliverable 3 - Image 4](https://user-images.githubusercontent.com/92111396/157317675-61da890b-8fd7-4459-9778-8d48f97a9343.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%204.png
+![Deliverable_3_Image_4](https://user-images.githubusercontent.com/92111396/157778051-f709c50c-62a6-4c44-9a4f-e537e2b5774b.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_4.png
 
-![Deliverable 3 - Image 5](https://user-images.githubusercontent.com/92111396/157317685-7d7b3e85-24c6-446f-b68a-445c854ed2b9.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%205.png
+![Deliverable_3_Image_5](https://user-images.githubusercontent.com/92111396/157778062-88c6d2bb-7218-41b5-ba7f-d56612ed9aa8.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_5.png
 
-![Deliverable 3 - Image 6](https://user-images.githubusercontent.com/92111396/157317695-98080b8e-71ca-4e28-8aa5-67ef24b1ff53.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable%203%20-%20Image%206.png
+![Deliverable_3_Image_6](https://user-images.githubusercontent.com/92111396/157778078-12f77975-c33f-49d0-ba3c-dd6a24e58922.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_6.png
+
+![Deliverable_3_Image_7](https://user-images.githubusercontent.com/92111396/157778092-8c18ce36-9e5a-4b07-812b-762485f1676e.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Deliverable_3_Image_7.png
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -228,24 +234,24 @@ Attempt 1:
 Predictive Accuracy Percentage: 72%
 Loss Metric: 56%
 
-![Summary - Attempt 1](https://user-images.githubusercontent.com/92111396/157326733-a54d24c0-8c64-440e-ac87-772d20ed6d99.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary%20-%20Attempt%201.png
+![Summary_Attempt_1](https://user-images.githubusercontent.com/92111396/157778377-5a495965-6cd1-4e9b-913e-ebab117d23bb.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary_Attempt_1.png
 
 
 Attempt 2:
 Predictive Accuracy Percentage: 72%
 Loss Metric: 56%
 
-![Summary - Attempt 2](https://user-images.githubusercontent.com/92111396/157326768-b6af5239-eea2-4abd-9c08-f2c3e4d1b2b9.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary%20-%20Attempt%202.png
+![Summary_Attempt_2](https://user-images.githubusercontent.com/92111396/157778408-9bef771b-15b0-4e41-be9c-2d5de4081455.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary_Attempt_2.png
 
 
 Attempt 3:
 Predictive Accuracy Percentage: 72%
 Loss Metric: 57%
 
-![Summary - Attempt 3](https://user-images.githubusercontent.com/92111396/157326797-25171191-77e1-4225-bc0a-3807d1f92e69.png)
-https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary%20-%20Attempt%203.png
+![Summary_Attempt_3](https://user-images.githubusercontent.com/92111396/157778434-c472cb08-22c7-4c2e-a1d3-ca511b28fb57.png)
+https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary_Attempt_3.png
 
 
 **Recommendation**
