@@ -234,7 +234,7 @@ https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/S
 
 Attempt 2:
 Predictive Accuracy Percentage: 72%
-Loss Metric: 55%
+Loss Metric: 56%
 
 ![Summary - Attempt 2](https://user-images.githubusercontent.com/92111396/157326768-b6af5239-eea2-4abd-9c08-f2c3e4d1b2b9.png)
 https://github.com/mcbride249/Neural_Network_Charity_Analysis/blob/main/Images/Summary%20-%20Attempt%202.png
